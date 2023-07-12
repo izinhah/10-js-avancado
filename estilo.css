@@ -1,5 +1,5 @@
 body {
-    background: rgb(255, 218, 8); 
+    background: rgb(2, 201, 228); 
     font: normal 15pt Arial;
 }  
 
@@ -15,9 +15,14 @@ section {
     padding: 15px; 
     width: 500px; 
     margin: auto; 
-    box-shadow: 6px 6px 10px rgb(243, 12, 12);
+    box-shadow: 6px 6px 10px rgb(189, 240, 5);
 
-}  
+}
+
+select#flista {
+    width: 150px; 
+}
+
 div {
     text-align: center; 
     padding: 8px;
